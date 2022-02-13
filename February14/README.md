@@ -13,8 +13,10 @@ Whereas slower piranhas are smaller in size as they are not able to eat as much 
 ![alt text](https://github.com/yk1932/RobotaPsyche/blob/main/February14/Screen%20Shot%202022-02-13%20at%2011.14.31%20PM.png)
 
 <p>A problem I faced was when all the organisms assembled together. Their starting point was the same, making them all assemble together. In order to fix this problem, 
-I think I would need to implement a collide function so that each object would not stack on top of each other.</p>
+I think I would need to implement a collide function so that each object would not stack on top of each other which I belive we will learn in the coming classes</p>
 
-![alt text](https://github.com/yk1932/RobotaPsyche/blob/main/February14/Robota%20Psyche%20Production%20Assignment.mov)
+<p>Another feature I would add,relating to collision, would be to remove the food as soon as the first collision to give the appearance of the food being eaten by the first fish touching it.</p>
+
+![Click here to view the video](https://github.com/yk1932/RobotaPsyche/blob/main/February14/Robota%20Psyche%20Production%20Assignment.mov)
 
 
