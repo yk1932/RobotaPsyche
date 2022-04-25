@@ -1,6 +1,6 @@
 # Presentation Summary #
 
-# Xenobots & Robot Replication #
+## Xenobots & Robot Replication #
 
 Throughout the course, one topic of interest that emerged was what reproduction meant to robots. As humans, a lot of our biological workings are wired to optimize our chances of survival and reproduction.  I wondered how this lack of ability to reproduce in Robots changed the discussion regarding emotions, biology, love in the robotic context. When I stumbled across professor’s message on discord about Xenobots, biologically assembled ‘robots’ that can self-replicate, this inspired me to dig deeper.
 
