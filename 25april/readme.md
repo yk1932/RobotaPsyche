@@ -1,5 +1,5 @@
 Course Summary (april 25)
 
-- course
-- discussion
-- presentation
+- course summary
+- discussion summary
+- presentation summary
